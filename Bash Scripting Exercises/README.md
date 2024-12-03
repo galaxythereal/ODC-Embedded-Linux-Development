@@ -68,7 +68,7 @@ This repository contains a collection of shell scripts demonstrating various scr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shell-scripting-exercises.git
+git clone https://github.com/galaxythereal/shell-scripting-exercises.git
 ```
 
 2. Navigate to the project directory:
