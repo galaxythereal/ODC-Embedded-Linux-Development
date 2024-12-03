@@ -68,12 +68,12 @@ This repository contains a collection of shell scripts demonstrating various scr
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/galaxythereal/shell-scripting-exercises.git
+git clone https://github.com/galaxythereal/ODC-Embedded-Linux-Development.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd shell-scripting-exercises
+cd Bash Scripting Exercises
 ```
 
 3. Make scripts executable:
